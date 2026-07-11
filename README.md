@@ -1,4 +1,4 @@
-# SecureVaultX 🔐
+# SecureVaultX 
 
 SecureVaultX is an open-source password manager developed in Python using Tkinter and SQLite. The application securely stores user credentials using encryption and password hashing techniques.
 
